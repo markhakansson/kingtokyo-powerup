@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+
+if [ ! -d "./bin" ]; then
+	echo Creating bin directory...
+	mkdir ./bin
+fi
+
+echo Compiling all files to bin...
+javac -d ./bin @sources.txt
+
+echo Compiling all unit tests...
+javac -d ./bin -cp .:lib/org.junit4-4.3.1.jar @tests.txt
+
+echo Compilation complete!

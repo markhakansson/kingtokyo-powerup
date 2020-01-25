@@ -1,0 +1,32 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Client",
+            "request": "launch",
+            "mainClass": "KingTokyo.client.Client",
+            "projectName": "d7032e-he_909de729"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Server",
+            "request": "launch",
+            "mainClass": "KingTokyo.server.Server",
+            "projectName": "d7032e-he_909de729"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Client",
+            "request": "launch",
+            "mainClass": "KingTokyo.Client.Client",
+            "projectName": "d7032e-he_909de729"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Server",
+            "request": "launch",
+            "mainClass": "KingTokyo.Server.Server",
+            "projectName": "d7032e-he_909de729"
+        }
+    ]
+}
