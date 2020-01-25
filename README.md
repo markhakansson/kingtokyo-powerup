@@ -1,5 +1,9 @@
 # KingTokyo
 
+This is a refactor of a King Tokyo Power Up game in Java for the course D7032E, Software Engineering at Lulea University of Technology. The purpose of this was to refactor a bad project as good as possible and make it easier to modify and extend for future updates/upgrades.
+
+## Requirements
+
 This program has been tested to work on OpenJDK version 1.8.0_222 and compiled with Javac version 1.8.0_222 on Linux.
 
 ## Compile instructions
